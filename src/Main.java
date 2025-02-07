@@ -5,7 +5,6 @@ import java.util.Random;
 public class Main {
 
     public int bitLength = 156;
-    public int certainty = 100;
     Random rnd = new Random();
 
     private BigInteger p;
